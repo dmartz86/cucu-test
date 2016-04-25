@@ -1,0 +1,10 @@
+{
+  "name": "cupo",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "angular-protractor": "registry:dt/angular-protractor#1.5.0+20160317120654",
+    "node": "registry:dt/node#4.0.0+20160330064709",
+    "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654"
+  }
+}
